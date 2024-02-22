@@ -23,6 +23,9 @@ module.exports = {
       // => @media (min-width: 1281px and max-width: 1800px) { ... }
     },
     extend: {
+      colors: {
+        zelena: '#5cc6a7',
+      },
       backgroundImage: {
         'hero': "url('/assets/image/code.jpg')",
       }
